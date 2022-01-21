@@ -52,13 +52,13 @@ I have marked a few that are strongly suggested.
 - Excel
 - d3 `<- since the rest of the class uses this, we're requiring it`
 - Matplotlib
-- three.js `<- well, it's a 3d library. not really recommended, but could be "interesting"`
+- three.js `<- well, it's a 3d library. not really recommended, but could be interesting and fun`
 - p5js `<- good for playing around. not really a chart lib`
 - Tableau
 - Java 2d
-- GNUplot
-- Vega-lite <- `<- recently much better. look for the high level js implementations`
-- Flourish <- `<- popular last year`
+- GNUplot `<- the CS department head uses this all the time :)`
+- Vega-lite <- `<- very interesting formal visualizatio model; might be the future of the field`
+- Flourish <- `<- popular in recent years`
 - PowerBI
 - SPSS
 
