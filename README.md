@@ -1,3 +1,8 @@
+
+https://stackoverflow.com/questions/60853097/is-it-possible-to-control-which-colors-are-retrieved-from-matplotlib-colormap
+
+https://pandas.pydata.org/docs/reference/api/pandas.Series.transform.html
+
 # 02-DataVis-5ways
 
 Assignment 2 - Data Visualization, 5 Ways  
