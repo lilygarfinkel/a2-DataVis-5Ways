@@ -1,3 +1,11 @@
+pandas: 
+https://pandas.pydata.org/docs/reference/api/pandas.Series.transform.html
+
+https://matplotlib.org/3.4.3/gallery/ticks_and_spines/colorbar_tick_labelling_demo.html
+
+d3: 
+
+
 # 02-DataVis-5ways
 
 Assignment 2 - Data Visualization, 5 Ways  
