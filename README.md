@@ -22,6 +22,8 @@ https://stackoverflow.com/questions/41848677/how-to-make-a-color-scale-in-d3-js-
 
 # matplotlib
 
+I have experience using matplotlib before, so this is the first visualization I tried to make. Creating the graph was relatively easy, however, it took me a little bit to figure out the color mapping. I also was playing with the legend for a while before I just added the manufacturers manually, because the legend was displaying the color code rather than the the value the code was mapped from (which makes sense to me, I just gave up trying to fix it) 
+
 ![matplotlib](img/matplotlib.png)
 
 # flourish
