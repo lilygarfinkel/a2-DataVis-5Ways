@@ -1,6 +1,6 @@
 library(ggplot2)
 
-data<-read.csv("C:\\Users\\lilyg\\Downloads\\data viz\\a2-DataVis-5Ways\\cars-sample.csv")
+data<-read.csv("https://raw.githubusercontent.com/lilygarfinkel/a2-DataVis-5Ways/main/cars-sample.csv")
 
 data["Weight"][data["Weight"] == x]<-x/1000
 
