@@ -1,29 +1,6 @@
 
 # 02-DataVis-5ways
 
-Assignment 2 - Data Visualization, 5 Ways  
-===
-
-![ggplot2](img/ggplot2.png)
-
-- Data positioning: it should be a downward-trending scatterplot as shown.  Weight should be on the x-axis and MPG on the y-axis.
-- Scales: Note the scales do not start at 0.
-- Axis ticks and labels: both axes are labeled and there are tick marks at 10, 20, 30, etcetera.
-- Color mapping to Manufacturer.
-- Size mapping to Weight.
-- Opacity of circles set to 0.5 or 50%.
-also included: 
-legends
-
-
-Note that some software packages will make it **impossible** to perfectly preserve the above requirements. 
-Be sure to note where these deviate.
-
-
-Libraries, Tools, Languages
----
-Python, JavaScript, R
-
 # R + ggplot2 
 
 R is a language primarily focused on statistical computing.
@@ -40,7 +17,17 @@ While it takes time to find the correct documentation, these functions made the 
 
 ![d3](img/d3.png)
 
+# matplotlib
 
+![matplotlib](img/matplotlib.png)
+
+# flourish
+
+![flourish](img/flourish.png)
+
+# vega-lite
+
+![vega-lite](img/vega-lite.png)
 
 ## Technical Achievements
 - included a legend in all charts
