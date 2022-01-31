@@ -28,9 +28,16 @@ I have experience using matplotlib before, so this is the first visualization I 
 
 # flourish
 
+I had never heard of flourish before this assingment, however it was by far the easiest to use. The user interface was very easy to understand, and I was able to generate this visualization much faster than the other ones, although there was basically no coding involved. 
+
 ![flourish](img/flourish.png)
 
 # vega-lite
+
+I had never heard of vega either before this assignment. I used vega-lite, which was pretty straightforward to understand. However, the language is very sensitive to punctuation and formatting, which is annoying. I also could not figure out how to make the points a tad smaller so they were not so big on the graph. 
+
+I used this source for this visualization:
+https://vega.github.io/vega-lite/examples/point_2d.html
 
 ![vega-lite](img/vega-lite.png)
 
