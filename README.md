@@ -42,7 +42,4 @@ https://vega.github.io/vega-lite/examples/point_2d.html
 ![vega-lite](img/vega-lite.png)
 
 ## Technical Achievements
-- included a legend in all charts
-
-### Design Achievements
-- **Re-vamped Apple's Design Philosophy**: As demonstrated in my colorscheme...
+- Included a legend in all charts which displayed the color mapping and size mapping for weight and manufacturer
