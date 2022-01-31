@@ -58,7 +58,7 @@ I have marked a few that are strongly suggested.
 - Tableau
 - Java 2d
 - GNUplot `<- the CS department head uses this all the time :)`
-- Vega-lite <- `<- very interesting formal visualizatio model; might be the future of the field`
+- Vega-lite <- `<- very interesting formal visualization model; might be the future of the field`
 - Flourish <- `<- popular in recent years`
 - PowerBI
 - SPSS
